@@ -22,3 +22,15 @@ This repository summarizes my contributions to the **Last Episod** capstone proj
 - **Evaluation Model:** Gemini-2.5-flash (LLM-as-Judge)  
 - **Output:** 5-criteria scoring (0–10 scale) with concise reasoning text  
 
+
+---
+
+## 🧩 Future Work
+- Automate feedback extraction using structured JSON outputs  
+- Integrate pairwise comparison evaluation (as proposed in *BESPOKE*, 2024)
+- Incorporate weighted composite metrics for information consistency
+
+---
+
+## 📎 Related Link
+- [Episod Official Service Page](https://episod.ink/)
